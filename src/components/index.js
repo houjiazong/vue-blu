@@ -1,9 +1,7 @@
 import Affix from './affix';
-import Tooltip from './tooltip';
 
 const components = {
-  Affix,
-  Tooltip,
+  Affix
 };
 
 export default {

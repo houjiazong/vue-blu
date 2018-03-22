@@ -1,8 +1,8 @@
 {
-  "name": "vue-blu",
+  "name": "yunion-vue-blu",
   "version": "0.1.9",
   "description": "A UI Component Library Base on Vue.js and Bulma",
-  "author": "Chenz <chenz8606@gmail.com>",
+  "author": "houjiazong <houjiazong@gmail.com>",
   "private": false,
   "main": "dist/vue-blu.min.js",
   "files": [
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenz24/vue-blu.git"
+    "url": "git+https://github.com/houjiazong/vue-blu.git"
   },
   "keywords": [
     "vue",

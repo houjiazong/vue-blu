@@ -7,7 +7,6 @@
 import './scss/main.scss';
 
 import Affix from './components/affix';
-import Tooltip from './components/tooltip';
 import Popover from './components/popover';
 import Dropdown from './components/dropdown';
 import { Timeline, TimelineItem } from './components/timeline';
@@ -36,7 +35,6 @@ import MessageModal from './components/message-modal';
 
 const components = {
   Affix,
-  Tooltip,
   Popover,
   Dropdown,
   Timeline,
