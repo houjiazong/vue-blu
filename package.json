@@ -1,6 +1,6 @@
 {
   "name": "yunion-vue-blu",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "A UI Component Library Base on Vue.js and Bulma",
   "author": "houjiazong <houjiazong@gmail.com>",
   "private": false,
